@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aieghbal&label=Profile%20views&color=0e75b6&style=flat" alt="aieghbal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aieghbal" alt="aieghbal" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/aieghbal" target="blank"><img src="https://img.shields.io/twitter/follow/aieghbal?logo=twitter&style=for-the-badge" alt="aieghbal" /></a> </p>
 
 - 🔭 I’m currently working on [nnhk](https://nnhk.ir/)
 
@@ -34,4 +31,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aieghbal&show_icons=true&locale=en" alt="aieghbal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aieghbal&" alt="aieghbal" /></p>
