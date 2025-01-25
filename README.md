@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Amir Iqbal</h1>
 <h3 align="center">php laravel developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aieghbal&label=Profile%20views&color=0e75b6&style=flat" alt="aieghbal" /> </p>
